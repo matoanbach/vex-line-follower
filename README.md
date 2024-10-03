@@ -10,6 +10,7 @@ This project implements a line-following robot using the VEX Cortex M4 microcont
 - [Sensor Placement](#sensor-placement)
 - [Code Explanation](#code-explanation)
 - [How to Run](#how-to-run)
+- [Result](#result)
 
 ## Introduction
 
@@ -218,8 +219,6 @@ task main() {
 
 This project is a practical implementation of control systems and robotics principles. It serves as an educational tool for learning about sensors, actuators, and PID control in embedded systems.
 
+## Result:
 
-
-
-
-
+[![Watch the video](https://i.ytimg.com/an_webp/kapof8Yd0SY/mqdefault_6s.webp?du=3000&sqp=CJbs-rcG&rs=AOn4CLAOr7Qal_qAqNN3M9KzlApnAQQ9Mg)](https://youtu.be/kapof8Yd0SY)
